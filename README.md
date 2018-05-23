@@ -17,6 +17,7 @@
     - Dev tools
     - Console log
     - The `debugger` statement
+    - try/catch
 * AJAX & network requests
 * Performance enhancement
 * Mobile devices
